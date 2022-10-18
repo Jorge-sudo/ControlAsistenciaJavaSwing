@@ -1,0 +1,10 @@
+4,          melani,          Vargas, F,          ESTUDIANTE
+5,          Josmel,          Pimentel, M,          ESTUDIANTE
+66,          rosa,          Candia, M,          ESTUDIANTE
+30,          Franz,          Quispe, M,          ESTUDIANTE
+31,          Antonio,          Quispe, F,          ESTUDIANTE
+12,          Abraham,          Quispe, M,          DIRECTOR
+2334,          JOSE,          ARONE, M,          ESTUDIANTE 
+123,          jorge,          arone, F,          DIRECTOR
+345,          jorge,          arone, M,          ESTUDIANTE 
+98,          jorge,          aroned, M,          DIRECTOR
